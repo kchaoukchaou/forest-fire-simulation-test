@@ -1,0 +1,24 @@
+# Composer dependencies
+/vendor/
+
+# Configuration de l'IDE
+.idea/
+.vscode/
+
+# Fichiers temporaires et de logs
+*.log
+*.cache
+
+# Fichiers de configuration spécifiques à l'environnement
+.env
+config.json
+
+# Systèmes d'exploitation
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*.tmp
+*.~*
